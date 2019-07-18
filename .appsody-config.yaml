@@ -1,0 +1,2 @@
+#stack: appsody/nodejs-express:0.2
+stack: seabaylea/nodejs-express:latest
